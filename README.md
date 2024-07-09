@@ -1,6 +1,6 @@
 # CloudBlast.io VPS Plans
 
-CloudBlast.io offers a range of VPS hosting plans with high-performance hardware and flexible pricing options. Below is a table summarizing the available plans:
+[CloudBlast.io](https://cloudblast.io/) offers a range of VPS hosting plans with high-performance hardware and flexible pricing options. Below is a table summarizing the available plans:
 
 | Plan         | CPU         | RAM  | NVMe Storage | Bandwidth            | Monthly Price | Hourly Price |
 |--------------|-------------|------|--------------|----------------------|---------------|--------------|
